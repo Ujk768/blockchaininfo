@@ -1,0 +1,18 @@
+.pagedetails1 {
+  position: fixed;
+}
+.mainImage1 {
+  width: 100vw;
+  height: 50vh;
+}
+.contentBox1 {
+  padding-top: 2%;
+  background-color: #336b87;
+  color: white;
+}
+.links1 {
+  color: white;
+}
+* {
+  overflow-x: hidden;
+}

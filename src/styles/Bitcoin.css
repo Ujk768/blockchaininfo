@@ -1,0 +1,29 @@
+.pagedetails {
+  position: fixed;
+}
+.mainImage {
+  width: 100vw;
+  height: 50vh;
+}
+.contentBox {
+  padding-top: 2%;
+  background-color: #f3b184;
+  color: black;
+}
+.links {
+  color: black;
+}
+
+* {
+  overflow-x: hidden;
+}
+.calculator {
+  padding: 5%;
+}
+.result {
+  font-weight: 500;
+  font-display: bold;
+}
+
+.submit {
+}

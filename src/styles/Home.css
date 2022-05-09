@@ -1,0 +1,55 @@
+.blockchain-home-image {
+  width: 90%;
+  height: 90%;
+  padding: 5%;
+}
+.bitcoin-home {
+  width: 80%;
+  height: 60%;
+  padding-left: 10%;
+}
+.heading1 {
+  color: white;
+  font-size: 2rem;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  justify-content: center;
+  text-align: center;
+  font-weight: 600;
+}
+.text1 {
+  color: white;
+  font-size: large;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  text-align: center;
+  padding: 2%;
+}
+.heading2 {
+  color: black;
+  font-size: 2rem;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  justify-content: center;
+  text-align: center;
+  font-weight: 600;
+}
+.text2 {
+  color: black;
+  font-size: large;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  text-align: center;
+  padding: 2%;
+}
+
+#blockchain {
+  background-color: #336b87;
+  padding-bottom: 5%;
+  padding-top: 6%;
+}
+#bitcoin {
+  background-color: #f3b184;
+
+  padding-top: 5%;
+}
